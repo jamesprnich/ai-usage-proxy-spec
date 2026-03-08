@@ -158,3 +158,5 @@ curl https://{your-host}/api/proxy/anthropic/subscription/ | jq .
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+![](https://cloud.umami.is/p/D7pkWPjlK)
